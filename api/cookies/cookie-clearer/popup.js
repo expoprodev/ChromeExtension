@@ -7,6 +7,9 @@ const message = document.getElementById("message");
 (async function initPopupWindow() {
   let [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
 
+
+
+  
   if (tab?.url) {
     try {
       let url = new URL(tab.url);
