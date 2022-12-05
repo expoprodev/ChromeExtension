@@ -4,6 +4,10 @@ Thank you for your interest in contributing!
 
 Send us your patches early and often and in whatever shape or form.
 
+
+
+
+
 ## Legal
 
 Unfortunately there are some legal hurdles. Sorry about that.
