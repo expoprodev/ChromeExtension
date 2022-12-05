@@ -1,6 +1,4 @@
 // Copyright 2017 The Chromium Authors. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
-// found in the LICENSE file.
 
 // When you specify "type": "module" in the manifest background,
 // you can include the service worker as an ES Module,  
